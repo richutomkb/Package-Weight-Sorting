@@ -1,6 +1,6 @@
-# Question 10 – Package Weight Sorting
+# Package Weight Sorting
 
-## BTech Data Structures Assignment
+## Data Structures
 
 ### Problem
 
